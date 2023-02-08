@@ -1,7 +1,7 @@
 Write-Host "Welcome to the IT Sec User Toolset. Please select from the following options.
             1) Unlock a user account
             2) Display Current User Information
-            3) Haven't decided option 3 yet"
+            "
 
 $option = Read-Host -Prompt "Enter number selection: "
 
